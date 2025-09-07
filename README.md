@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Iskandar!</h1>
-<h3 align="center">Math enthusiast ➝ Data Science explorer ➝ ML engineer in progress 🚀</h3>
+<h3 align="center">Math enthusiast ➝ Data Science explorer  🚀</h3>
 
 ---
 
@@ -50,10 +50,10 @@
 ## 🌐 Connect with Me  
 
 <p align="center">
-  <a href="https://t.me/YOUR_TELEGRAM"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://www.kaggle.com/YOUR_KAGGLE"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"></a>
-  <a href="https://ods.ai/users/YOUR_ODS"><img src="https://img.shields.io/badge/ODS.ai-FF6F00?style=for-the-badge"></a>
+  <a href="https://t.me/[YOUR_TELEGRAM](https://t.me/iskandar0909)"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+  <a href="https://github.com/[YOUR_GITHUB_USERNAME](https://github.com/Quantum117)"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://www.kaggle.com/[YOUR_KAGGLE](https://www.kaggle.com/iskandar007)"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"></a>
+  <a href="https://ods.ai/users/[YOUR_ODS](https://ods.ai/users/lcd1dd2911c51)"><img src="https://img.shields.io/badge/ODS.ai-FF6F00?style=for-the-badge"></a>
 </p>
 
 ---
