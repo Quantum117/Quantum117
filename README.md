@@ -28,10 +28,6 @@
 ![Calculus](https://img.shields.io/badge/Calculus-3E4EB8?style=for-the-badge)  
 ![Differential Equations](https://img.shields.io/badge/Differential%20Equations-607D8B?style=for-the-badge)
 
-**Engineering:**  
-![Pipelines](https://img.shields.io/badge/Pipelines-0A74DA?style=for-the-badge)  
-![FEM](https://img.shields.io/badge/FEM-008000?style=for-the-badge)  
-![Fluid Structure Interaction](https://img.shields.io/badge/Fluid--Structure--Interaction-FF5722?style=for-the-badge)
 
 </details>
 
@@ -40,9 +36,9 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Quantum117&show_icons=true&theme=tokyonight" alt="stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Quantum117&theme=tokyonight" alt="streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quantum117&layout=compact&theme=tokyonight" alt="langs" />
 </p>
 
 ---
@@ -50,10 +46,10 @@
 ## 🌐 Connect with Me  
 
 <p align="center">
-  <a href="https://t.me/[YOUR_TELEGRAM](https://t.me/iskandar0909)"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
-  <a href="https://github.com/[YOUR_GITHUB_USERNAME](https://github.com/Quantum117)"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://www.kaggle.com/[YOUR_KAGGLE](https://www.kaggle.com/iskandar007)"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"></a>
-  <a href="https://ods.ai/users/[YOUR_ODS](https://ods.ai/users/lcd1dd2911c51)"><img src="https://img.shields.io/badge/ODS.ai-FF6F00?style=for-the-badge"></a>
+  <a href="https://t.me//iskandar0909)"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+  <a href="https://github.com/Quantum117"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://www.kaggle.com/iskandar007"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"></a>
+  <a href="https://ods.ai/users/lcd1dd2911c51"><img src="https://img.shields.io/badge/ODS.ai-FF6F00?style=for-the-badge"></a>
 </p>
 
 ---
