@@ -1,8 +1,8 @@
 <!-- Dynamic Typing Animation -->
 <p align="center">
   <a href="https://github.com/Quantum117">
-    <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=58A6FF&center=true&vCenter=true&width=600&
-      lines=Hi+there+👋,+I'm+Iskandar!;         Math+Enthusiast+➝+Data+Science+Explorer;ML+Engineer+in+Progress+🚀" />
+   <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B,+I%27m+Iskandar!;Math+Enthusiast+%E2%9E%9F+%E2%86%92+Data+Science+Explorer;ML+Engineer+in+Progress+%F0%9F%9A%80" alt="typing" />
+
   </a>
 </p>
 
