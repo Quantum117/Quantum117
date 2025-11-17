@@ -16,7 +16,7 @@
 
 ## 🌟 About Me  
 - 🎓 Currently studying **Mathematics & Data Science**  
-- 🔬 Passionate about **Machine Learning**, **Data Analysis**, and **Engineering Simulations**  
+- 🔬 Passionate about **Machine Learning**, **Data Analysis**
 - 🤝 Open to collaborating on **ML + Math-heavy projects**  
 - 📘 Love exploring **linear algebra, tensors, and optimization**  
 - ⚡ Fun fact: I enjoy finding **patterns in everything**  
