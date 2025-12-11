@@ -2,7 +2,7 @@
 <p align="center">
   <a href="https://github.com/Quantum117">
   <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I'm+Iskandar!;Math+Enthusiast+➝Explorer;Data+Scientist+in+Progress+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I'm+Iskandar!;Math+Enthusiast+➝Explorer;Data+Scientist" alt="Typing SVG" />
 </p>
 
 
@@ -16,10 +16,9 @@
 
 ## 🌟 About Me  
 - 🎓 Currently studying **Mathematics & Data Science**  
-- 🔬 Passionate about **Machine Learning**, **Data Analysis**
 - 🤝 Open to collaborating on **ML + Math-heavy projects**  
-- 📘 Love exploring **linear algebra, tensors, and optimization**  
-- ⚡ Fun fact: I enjoy finding **patterns in everything**  
+- 📘 Love exploring **linear algebra, probability, and optimization**  
+- ⚡ I enjoy finding **patterns in everything**  
 
 ---
 
