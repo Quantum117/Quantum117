@@ -66,4 +66,3 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:58A6FF&height=100&section=footer" />
 
-⭐️ From [Iskandar](https://github.com/Quantum117)
