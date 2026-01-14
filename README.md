@@ -18,7 +18,7 @@
 - 🎓 Currently studying **Mathematics & Data Science**  
 - 🤝 Open to collaborating on **ML + Math-heavy projects**  
 - 📘 Love exploring **linear algebra, probability, and optimization**  
-- ⚡ I enjoy finding **patterns **  
+- ⚡ I enjoy finding **patterns**
 
 ---
 
